@@ -1,0 +1,126 @@
+\documentclass[a4paper,hidelinks,10pt]{article}
+
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage{parskip}
+\usepackage[hidelinks]{hyperref}
+\usepackage{helvet}
+\pagenumbering{gobble}
+\titleformat{\section}
+{\huge\bfseries}
+{\hspace{-0.6cm}}
+{0em}
+{}[\titlerule]
+
+\titleformat{\subsection}[runin]
+{\bfseries\large}
+{$\bullet$}
+{0.4em}
+{}[ ---]
+
+\titlespacing{\section}
+{0em}{0em}{0.4em}
+
+
+\titlespacing{\subsection}
+{-1em}{0.4em}{1em}
+
+\titlespacing{\subsubsection}
+{0em}{0em}{0em}
+
+\titleformat{\subsubsection}
+{\bfseries}
+{}
+{0em}
+{}
+
+\begin{document}
+\title{R\'esum\'e}
+\author{Iurea Marius}
+\renewcommand{\maketitle}
+{
+        \begin{center}
+        {\huge\bfseries
+        \thetitle
+
+        \theauthor}
+
+        marius.iurea@yahoo.com --- 0741055112
+
+        \end{center}
+}
+
+\maketitle
+
+\section{Personal Summary}
+A self-motivated individual and passionate student, eager to build products that solve user problems and to take on new challenges.
+Team player with good communication skills, adaptable to any work environment.
+\section{Technical Skills}
+\subsection{Languages}
+C, C++, C\#, Python, HTML, JavaScript
+\subsection{Frameworks/Libraries}
+JQuery, Django
+\subsection{Tools}
+Git, Unity, Visual Studio, Vim
+\section{Projects}
+\subsection{RedditFeud}
+Webapp build using django, hosted on AWS server \href{https:\\www.redditfeud.com}{(Link)}
+\subsubsection{Summary:}
+This webapp queries the python reddit API and stores the most popular posts and comments of the past day
+in a SQLite database, then when an user requests a quiz it pulls 10 random questions from the database and usesthe template engine to create the webpage.
+\subsubsection{Skills Aquired:}
+
+-deployment procces for web app
+
+-understanding of Django and the MVC design pattern
+
+-data scraping using python and the praw API
+
+-JSON file processing
+
+-usage of git for version control
+
+\subsection{Afterswarm}
+Game built in Unity for end of highschool project \href{https://mega.nz/#F!e7hGCa6A!YFMBrU9kS6GqHZPJJb20WA}{(Link)}
+\subsubsection{Summary:}
+This is a small game built in homage to old school "shoot 'em ups". The player is at the bottom of the screen
+moving with A and D while aiming with the mouse. There are different enemies with varied shooting styles.
+
+\subsubsection{Skills Aquired:}
+-OOP knowledge since Unity is highly object based
+
+-thoroughly reading the documentation
+
+-general game design concepts
+
+-usage of the Unity game engine
+
+\subsection{Bonol}
+Implementation of the L game in C++ for a project in university \href{https://github.com/IureaMarius/ProiectIP}{(Link)}
+\subsubsection{Summary:}
+The L Game is a simple abstract strategy board game. The game was designed to be difficult and skill expresive
+game without having many board pieces. The game has a vs CPU mode as well.
+\subsubsection{Skills Aquired:}
+-further developed problem solving skills and C++ knowledge
+
+-improved at working in a team
+
+-experience creating GUI
+
+-git for version control and cooperation
+
+\section{Education}
+\subsection{Currently getting a bachelor's degree at 
+the Faculty of Computer Science Iasi(first year student)}
+ 8.66/10 Grade Average, receiving scholarship 
+
+\subsection{Participation in FIIPractic full-stack .Net courses}
+ASP.NET, .NET MVC Core
+
+
+\end{document}
+
+
+
+
