@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.5.16)  2 JUN 2020 18:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Arch Linux) (preloaded format=pdflatex 2020.5.16)  25 AUG 2020 15:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -246,35 +246,39 @@ LaTeX Info: Redefining \nameref on input line 39.
 \openout3 = `Resume.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 62.
+(Font)              <12> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 62.
+(Font)              <8> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 62.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 124.
+(Font)              <6> on input line 61.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 68.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 68.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 119.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 124.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 119.
  (./Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 124.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 124.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 119.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 119.
 Package rerunfilecheck Info: File `Resume.out' has not changed.
-(rerunfilecheck)             Checksum: 3C742FB848ADF0E73FCD1AB3D761921A;1232.
+(rerunfilecheck)             Checksum: 40129FE1B9A8417F487D097953F33B16;1348.
  ) 
 Here is how much of TeX's memory you used:
- 5453 strings out of 492167
- 79979 string characters out of 6131558
+ 5457 strings out of 492167
+ 80027 string characters out of 6131558
  187257 words of memory out of 5000000
- 9775 multiletter control sequences out of 15000+600000
+ 9778 multiletter control sequences out of 15000+600000
  7597 words of font info for 27 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,4n,34p,1195b,309s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Resume.pdf (1 page, 62349 bytes).
+Output written on Resume.pdf (1 page, 66981 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 145 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
